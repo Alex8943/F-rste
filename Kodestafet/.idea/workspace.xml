@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e078d50-0e49-4a19-b424-34d19fb6d19f" name="Default Changelist" comment="" />
+    <list default="true" id="6e078d50-0e49-4a19-b424-34d19fb6d19f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/demo/Hovedmenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/Hovedmenu.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1YR4m46OVR6E4oGcb7WMmHEucw5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -45,32 +52,29 @@
       <option name="presentableId" value="Default" />
       <updated>1582892228257</updated>
       <workItem from="1582892229657" duration="5795000" />
+      <workItem from="1599122967146" duration="56000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="192" key="GridCell.Tab.0.bottom" timestamp="1582898269037">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1493" height="366" key="GridCell.Tab.0.bottom" timestamp="1599123023154">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1237" height="192" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582898269037" />
-    <state width="1237" height="192" key="GridCell.Tab.0.center" timestamp="1582898269037">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1493" height="366" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599123023154" />
+    <state width="1493" height="366" key="GridCell.Tab.0.center" timestamp="1599123023154">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1237" height="192" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1582898269037" />
-    <state width="1237" height="192" key="GridCell.Tab.0.left" timestamp="1582898269037">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1493" height="366" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599123023154" />
+    <state width="1493" height="366" key="GridCell.Tab.0.left" timestamp="1599123023154">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1237" height="192" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1582898269037" />
-    <state width="1237" height="192" key="GridCell.Tab.0.right" timestamp="1582898269037">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1493" height="366" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599123023154" />
+    <state width="1493" height="366" key="GridCell.Tab.0.right" timestamp="1599123023154">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1237" height="192" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1582898269037" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1582897333310">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1582897333310" />
+    <state width="1493" height="366" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599123023154" />
   </component>
 </project>
